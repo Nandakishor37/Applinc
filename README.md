@@ -1,2 +1,2 @@
-# DatingApp
+# Applicn
 not desided yet, i'll update later
